@@ -3,10 +3,10 @@
 
 ----
 
-🗺️ I'm a *IT student* from Brazil, and I'm studying *web development/cloud development*
+🗺️ I'm a *developer* from Brazil.
 
 **Languages**: `JavaScript`, `Java`, `PHP`, `C#`, `Python`
 
 **Tools**: `VsCode`,`Visual Studio`
 
-🌱 Always looking for new technologies and abilities to learn.
+🌱 Studying *web development/cloud development*.
