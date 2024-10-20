@@ -1,12 +1,19 @@
-# I'm Isaac ⭐
-<img src="https://github.com/images/mona-whisper.gif"></img>
+<h1 align='center'>Hello, I'm Isaac 🧑‍💻</h1>
 
-----
+<img align='right' src="https://github.com/images/mona-whisper.gif"></img>
 
-🗺️ I'm a *developer* from Brazil.
+<br/>
+
+> 🗺️ I'm a *developer* from Brazil.
 
 **Languages**: `JavaScript`, `Java`, `PHP`, `C#`, `Python`
 
+**Databases**: `MongoDB`, `MYSQL`
+
+**Tests**: `Jest`, `Junit`
+
+**Stacks**: `MERN`, `MEAN`
+
 **Tools**: `VsCode`,`Visual Studio`
 
-🌱 Studying *web development/cloud development*.
+> 🚀 Learning a range of technologies. 
