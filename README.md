@@ -1,4 +1,4 @@
-<h1 align='center'>Hello, I'm Isaac 🧑‍💻</h1>
+<h1 align='center'>Hello, I'm Isaac ✋</h1>
 
 <img align='right' src="https://github.com/images/mona-whisper.gif"></img>
 
@@ -15,5 +15,3 @@
 **Stacks**: `MERN`, `MEAN`
 
 **Tools**: `VsCode`,`Visual Studio`
-
-> 🚀 Learning a range of technologies. 
