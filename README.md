@@ -1,10 +1,12 @@
-<h1 align='center'>Hello, I'm Isaac ✋</h1>
-
-<img align='right' src="https://github.com/images/mona-whisper.gif"></img>
+# Hello 👋
 
 <br/>
 
+> 🧙 My name is Isaac
+
 > 🗺️ I'm a *developer* from Brazil.
+
+## Abilitites 🌟
 
 **Languages**: `JavaScript`, `Java`, `PHP`, `C#`, `Python`
 
